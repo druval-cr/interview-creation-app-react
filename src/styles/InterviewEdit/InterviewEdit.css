@@ -1,0 +1,23 @@
+.main-container{
+    padding: 30px 100px;
+}
+
+.main-link{
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+}
+
+.form__field{
+    padding: 10px 0;
+}
+.form__field label{
+    padding-right: 10px;
+}
